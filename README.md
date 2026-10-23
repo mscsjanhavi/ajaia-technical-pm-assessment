@@ -126,6 +126,8 @@ The assessment follows five principles:
 
 The complete written assessment is available in [`submission.md`](submission.md).
 
+## Video Link: https://drive.google.com/file/d/1_ibnDSWetrxr79cOdrIgFJ5RnvUCYwZx/view?usp=sharing
+
 This repository contains the supporting code, sample input, normalized output, and automated test.
 
 ---
